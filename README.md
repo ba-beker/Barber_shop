@@ -1,5 +1,5 @@
 # Barber Shop
-The Barber Shop Website is a project I developed using HTML, CSS, and JavaScript. It showcases a modern and interactive website for a barber shop, providing information about services, prices, and the ability to book appointments online.
+The Barber Shop Website is a project I developed using HTML, CSS, and JavaScript. It showcases a modern and interactive website for a barber shop, providing information about services, prices.
 
 **Link to project:** https://ba-beker.github.io/Barber_shop/
 
